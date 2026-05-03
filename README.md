@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ayham 👋
 
-<!--
-**Ayham-Almahasaneh/Ayham-Almahasaneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Technology student at Algonquin College.
 
-Here are some ideas to get you started:
+## Skills
+- Web: HTML, CSS, Bootstrap, JavaScript, PHP
+- Programming: C (C89), Assembly
+- Data Structures: Linked Lists, Trees, Sorting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Hotel Web System
+- Banking System (C)
+- Data Structures Practice
+
+## Links
+- LinkedIn: https://linkedin.com/in/ayham-almahasaneh
+- GitHub: https://github.com/Ayham-Almahasaneh
